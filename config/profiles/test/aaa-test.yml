@@ -1,0 +1,6 @@
+msg: --github-----/config/profiles/test/aaa-test.yml----
+dfbb:
+  user:
+    name: 'github-东方不败-test'
+    age: 40
+    sal: 33333.0

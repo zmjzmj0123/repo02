@@ -1,6 +1,6 @@
 msg: ----github-------repo02/config/basic/aaa.yml
 server:
-  port: 20002
+  port: 20012
 logging:
   pattern:
     console: '%clr(%-40.40logger{39}){cyan} %clr(${LOG_LEVEL_PATTERN:-%5p}) %m%n'
